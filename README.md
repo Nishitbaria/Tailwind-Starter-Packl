@@ -7,7 +7,7 @@
 **Step 2:** To run:
 
 ```bash
-npm install
+npm install vite
 npm run start
 ```
 
