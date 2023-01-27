@@ -1,5 +1,5 @@
 # Tailwind-Starter-Packl
-Just Downloud Or Fork It And Code it Start Your Code Without Leaving Html code 
+## "Download this repository as a zip or fork it, then begin coding in the index.html file without leaving the HTML code."
 
 
 **Step 1:** [Download](https://github.com/thepranaygupta/html-tailwind-css-starter-pack/archive/refs/heads/main.zip) this repo as a zip
